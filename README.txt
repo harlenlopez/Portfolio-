@@ -38,3 +38,9 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+		Number and name of feature: SMACCS
+
+		Estimate of time needed to complete: 5hrs
+
+		Start time: 0912
